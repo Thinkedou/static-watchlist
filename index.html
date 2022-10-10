@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Watch List</title>
+  </head>
+  <body>
+    <div class='row'>
+      <div class='col left'>
+          <ul>
+              <li>Ici c'est App.vue</li>
+              <li>Parent (nav, button, etc)</li>
+          </ul>
+          <span>▶ Lecture en cours: tarantel</span>
+      </div>
+      <div class='col right'>
+
+        <div class="courses-container">
+
+          <div class="course">
+              <div class="course-preview">
+                  <slot>
+                      <h6>Season 2</h6>
+                      <h2>Breaking Bad</h2>
+                  </slot>
+              </div>
+              <div class="course-info">
+                  <h6>ep: S02E08</h6>
+                  <h2>Title</h2>
+                  <button class="btn" >Continue</button>
+              </div>
+          </div>
+          
+
+        </div>
+
+      </div>
+  </div>
+
+
+
+
+
+    
+  </body>
+</html>
