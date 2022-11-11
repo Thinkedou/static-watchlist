@@ -18,6 +18,5 @@ export const userWatchList = [
         "season":1,
         "episode":3,
         "timeCursor":"00:00:00"
-
     }
 ]
