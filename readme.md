@@ -14,7 +14,7 @@ Avec la bonne directive
 Le fond de course-preview et du bouton doit être de la couleur de la série
 
 ## Activer le bouton "continue"
-Qui doit mettre à jour la partie de gauche *Lecture en cours*
+Qui doit mettre à jour la partie de gauche *Lecture en cours* 
 
 
 
